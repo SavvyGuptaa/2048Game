@@ -6,6 +6,6 @@ Welcome to the 2048 Game repository! This is a classic puzzle game implemented u
 3. Tiles with the same number will merge when they collide, creating a new tile with a doubled value.
 4. The game ends when you reach the 2048 tile or there are no valid moves left.
 # Demo
-Check out the live demo of the game here and start sliding those tiles!
+Check out the live demo of the game [here](https://savvyguptaa.github.io/2048Game/) and start sliding those tiles!
 
 Enjoy the challenge and have fun reaching 2048 and beyond!
